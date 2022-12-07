@@ -55,9 +55,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 13,
-    "versionPublish": "5.6.11",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "versionPublish": "5.6.11"
   },
   "pages": {
     "index.html": {
